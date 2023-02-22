@@ -1,0 +1,6 @@
+framework module Pods_HamburgerMenu_HamburgerMenuUITests {
+  umbrella header "Pods-HamburgerMenu-HamburgerMenuUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
